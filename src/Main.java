@@ -10,5 +10,7 @@ public class Main {
         StringBuilder stringBuilder = new StringBuilder("StringBuilder");
         stringBuilder.append(" - класс для часто изменяемых строк.");
         System.out.println(stringBuilder);
+
+        System.out.println("Hi");
     }
 }
