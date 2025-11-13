@@ -11,6 +11,6 @@ public class Main {
         stringBuilder.append(" - класс для часто изменяемых строк.");
         System.out.println(stringBuilder);
 
-        System.out.println("Hi");
+        System.out.println("Hi Buuug");
     }
 }
